@@ -1,0 +1,27 @@
+﻿<Window x:Class="ProductApp.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Оформление заказа" Height="400" Width="600">
+    <Grid>
+        <ComboBox Name="ProductComboBox" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="200" DisplayMemberPath="Name"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Width="200">
+            <TextBlock Text="Введите количество:" Margin="0,0,0,5"/>
+            <TextBox Name="QuantityTextBox"/>
+        </StackPanel>
+
+        <Button Content="Добавить в заказ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="30" Margin="10,100,0,0" Click="AddProductButton_Click"/>
+
+        <ListView Name="OrderListView" HorizontalAlignment="Left" Height="200" Margin="10,140,10,50" VerticalAlignment="Top" Width="560">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Продукт" DisplayMemberBinding="{Binding Product.Name}" Width="250"/>
+                    <GridViewColumn Header="Количество" DisplayMemberBinding="{Binding Quantity}" Width="100"/>
+                    <GridViewColumn Header="Цена" DisplayMemberBinding="{Binding Product.Price}" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Content="Оформить заказ" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="200" Height="30" Margin="10,0,0,10" Click="CompleteOrderButton_Click"/>
+    </Grid>
+</Window>

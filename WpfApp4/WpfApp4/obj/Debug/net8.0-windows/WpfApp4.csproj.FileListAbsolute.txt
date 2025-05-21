@@ -1,0 +1,501 @@
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_Content.g.cs
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\A123B456C7.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\B234C567D8.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\C345D678E9.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\D456E789F0.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\E567F890G1.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\F678G901H2.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\G789H012I3.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\icon.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\picture.png
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\A123B456C7.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\B234C567D8.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\C345D678E9.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\D456E789F0.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\E567F890G1.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\F678G901H2.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\G789H012I3.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\icon.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\picture.png
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_Content.g.cs
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\azatg\Desktop\Новая папка (2)\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\A123B456C7.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\B234C567D8.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\C345D678E9.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\D456E789F0.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\E567F890G1.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\F678G901H2.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\G789H012I3.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\icon.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\picture.png
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_Content.g.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\User\Downloads\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\A123B456C7.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\B234C567D8.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\C345D678E9.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\D456E789F0.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\E567F890G1.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\F678G901H2.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\G789H012I3.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\icon.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\picture.png
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Json.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_Content.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\AddProductWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\AddProductWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\EditProductWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\A123B456C7.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\B234C567D8.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\C345D678E9.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\D456E789F0.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\E567F890G1.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\F678G901H2.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\G789H012I3.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\icon.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Resources\picture.png
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\magazin-main\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\AddProductWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\EditProductWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\AddProductWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_Content.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderManagementWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderManagementWindow.g.cs
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\UserOrdersWindow.baml
+F:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\UserOrdersWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderManagementWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\UserOrdersWindow.baml
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\OrderManagementWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\UserOrdersWindow.g.cs
+D:\magazin-main\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.sourcelink.json

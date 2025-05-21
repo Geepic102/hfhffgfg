@@ -1,0 +1,63 @@
+﻿<Window x:Class="ProductApp.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить товар" Height="500" Width="500">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="109*"/>
+                <ColumnDefinition Width="371*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Margin="0,0,0,10" Grid.ColumnSpan="2">
+                <Border BorderBrush="Gray" BorderThickness="1" Height="150" Margin="0,5">
+                    <Image x:Name="ProductImage" Stretch="Uniform" />
+                </Border>
+                <Button Content="Добавить изображение" Margin="0,5" Click="ChangeImageButton_Click"/>
+                <TextBlock Text="Артикул" Margin="0,5"/>
+                <TextBox x:Name="ArticleTextBox" Height="30" />
+
+                <TextBlock Text="Наименование" Margin="0,5"/>
+                <TextBox x:Name="NameTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Категория" Margin="0,5"/>
+                <ComboBox x:Name="CategoryComboBox" Margin="0,5" DisplayMemberPath="Name" SelectedValuePath="CategoryId" />
+
+                <TextBlock Text="Количество на складе" Margin="0,5"/>
+                <TextBox x:Name="QuantityTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Максимальная скидка" Margin="0,5"/>
+                <TextBox x:Name="MaxDiscountTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Текущая скидка" Margin="0,5"/>
+                <TextBox x:Name="CurrentDiscountTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Поставщик" Margin="0,5"/>
+                <TextBox x:Name="SupplierTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Производитель" Margin="0,5"/>
+                <TextBox x:Name="ManufacturerTextBox" Margin="0,5" Height="30" />
+
+
+                <TextBlock Text="Описание" Margin="0,5"/>
+                <TextBox x:Name="DescriptionTextBox" Margin="0,5" Height="30" />
+
+                <TextBlock Text="Стоимость" Margin="0,5"/>
+                <TextBox x:Name="PriceTextBox" Margin="0,5" Height="30" />
+            </StackPanel>
+
+            <Button Content="Сохранить"
+                    Click="SaveButton_Click"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    Margin="0,10,0,0"
+                    HorizontalAlignment="Center"
+                    Width="150"
+                    Height="35"/>
+        </Grid>
+    </ScrollViewer>
+</Window>

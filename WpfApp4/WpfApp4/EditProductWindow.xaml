@@ -1,0 +1,46 @@
+﻿<Window x:Class="ProductApp.EditProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактировать товар" Height="698" Width="450">
+    <Grid Margin="15">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Border BorderBrush="Gray" BorderThickness="1" Height="150" Margin="0,5">
+                    <Image x:Name="ProductImage" Stretch="Uniform" />
+                </Border>
+                <Button Content="Изменить изображение" Margin="0,5" Click="ChangeImageButton_Click"/>
+
+                <TextBlock Text="Артикул" />
+                <TextBox x:Name="ArticleTextBox" IsReadOnly="True" Margin="0,5" />
+
+                <TextBlock Text="Название товара" />
+                <TextBox x:Name="NameTextBox" Margin="0,5" />
+
+                <TextBlock Text="Описание" />
+                <TextBox x:Name="DescriptionTextBox" Height="60" TextWrapping="Wrap" 
+                         AcceptsReturn="True" Margin="0,5" />
+
+                <TextBlock Text="Цена" />
+                <TextBox x:Name="PriceTextBox" Margin="0,5" />
+
+                <TextBlock Text="Количество на складе" />
+                <TextBox x:Name="QuantityTextBox" Margin="0,5" />
+
+                <TextBlock Text="Категория" />
+                <ComboBox x:Name="CategoryComboBox" DisplayMemberPath="Name" 
+                          SelectedValuePath="CategoryId" Margin="0,5"/>
+
+                <TextBlock Text="Максимальная скидка (%)" />
+                <TextBox x:Name="MaxDiscountTextBox" Margin="0,5" />
+
+                <TextBlock Text="Текущая скидка (%)" />
+                <TextBox x:Name="CurrentDiscountTextBox" Margin="0,5" />
+
+                <StackPanel Orientation="Horizontal" Margin="0,15,0,0" HorizontalAlignment="Center">
+                    <Button Content="Сохранить" Width="100" Margin="0,0,10,0" Click="SaveButton_Click"/>
+                    <Button Content="Удалить" Width="100" Background="Red" Foreground="White" Click="DeleteButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
